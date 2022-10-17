@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Ruoning Jin for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ruoning Jin](https://github.com/RuoningJin)  for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
